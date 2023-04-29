@@ -1,18 +1,18 @@
 {
 
-"Nolan": {
+"Extis2": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "EpicBooth"
 },
 
-"ZenuuxSecret": {
+"Extis1": {
     "Active": false,
     "RewardType": "Booth",
     "RewardValue": "ZenuuxBooth"
 },
 
-"RocketBooth2023": {
+"Extis": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "RocketBooth"
